@@ -1,2 +1,2 @@
-# Mfreet
-マイクラFreeツール
+# Mfreet マイクラ無料化ツール
+
